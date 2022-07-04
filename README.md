@@ -10,4 +10,4 @@
 - 👯 I’m looking for a job as a Frontend Developer
 - ⚡ Fun fact: I'm scared of FROGS.
 
-#### To see more info about technologies, languages and my socials, check out my personal website: [Personal Homepage](grzedomin.github.io/personal-homepage/)
+#### To see more info about technologies, languages and my socials, check out my personal website: [Personal Homepage](https://grzedomin.github.io/personal-homepage/)
