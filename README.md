@@ -4,7 +4,7 @@
 
 #### Currently i'm looking for new job opportunities so if you are interested feel free to contact me via Mail/Github/LinkedIn.
 
-- 🔭 I’m currently working on book-page
+- 🔭 I’m currently working on [Movies Browser](https://github.com/Wolian/movies-browser)
 - 🌱 I’m currently learning Redux, Redux-Saga
 - 📫 Reach out to me at grze.domin98@gmail.com
 - 👯 I’m looking for a job as a Frontend Developer
